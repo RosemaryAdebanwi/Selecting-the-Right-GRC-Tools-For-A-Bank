@@ -17,6 +17,10 @@ As a GRC Analyst at a top bank in the United Kingdom, I was tasked with drafting
 
 <h2>Recommended GRC Platforms:</h2>
 
-<img src="https://img.shields.io/badge/-MetricStream-00558C?&style=for-the-badge&logo=MetricStream&logoColor=white" /> <img src="https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black" /> <img src="https://img.shields.io/badge/-SAP_GRC-50C878?&style=for-the-badge&logo=SAP&logoColor=white" /> <img src="https://img.shields.io/badge/-OneSumX-D2691E?&style=for-the-badge&logo=WoltersKluwer&logoColor=white" /> <img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+<a href="https://www.metricstream.com" target="_blank"><img src="https://img.shields.io/badge/-MetricStream-00558C?&style=for-the-badge&logo=MetricStream&logoColor=white" /></a>
+<a href="https://www.archerirm.com/?utm_" target="_blank"><img src="https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black" /></a>
+<a href="https://www.sap.com/products/financial-management/grc.html?utm_" target="_blank"><img src="https://img.shields.io/badge/-SAP_GRC-50C878?&style=for-the-badge&logo=SAP&logoColor=white" /></a>
+<a href="https://www.wolterskluwer.com/en/solutions/onesumx-for-finance-risk-and-regulatory-reporting/?utm_" target="_blank"><img src="https://img.shields.io/badge/-OneSumX-D2691E?&style=for-the-badge&logo=WoltersKluwer&logoColor=white" /></a>
+<a href="https://www.servicenow.com" target="_blank"><img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" /></a>
 
 
